@@ -2,7 +2,7 @@
 ## 目標
 コンペで良い予測精度のモデルを作成し上位に入ること
 ##　結果
-【SOTA】マイナビ × SIGNATE Student Cup 2019: 賃貸物件の家賃予測で*59位*/575人
+【SOTA】マイナビ × SIGNATE Student Cup 2019: 賃貸物件の家賃予測で**59位**/575人
 # 概要：Overview
 ・環境：Requirement
 # 実装環境
