@@ -12,9 +12,11 @@
 **feature**--
 creat.ipynb (データから作った特徴量) / used_feature.ipynb　（最終的にモデルに学習させた特徴量）
 
-**model**
-**graphic**
-**importance**
+**model**--lgbm.ipynb (LightGBMを用いたモデルのコード)
+
+**graphic**--
+
+**importance**--feature_importance
 
 # データの概要
 # 手法とその理由
