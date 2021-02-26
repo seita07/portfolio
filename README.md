@@ -9,9 +9,11 @@
 ## 構造
 **data**
 train,test　２つのデータセット
+
 **feature**--
 creat.ipynb (データから作った特徴量)
 used_feature.ipynb　（最終的にモデルに学習させた特徴量）
+
 **model**
 **graphic**
 **importance**
