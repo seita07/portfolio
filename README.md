@@ -19,9 +19,9 @@ creat.ipynb (データから作った特徴量) / used_feature.ipynb　（最終
 **importance**--feature_importance
 
 ## データの概要
-学習用データ（train.csv）/検証用データ（test.csv）
-  データ数 ： 31,470行/31,262行
-  0	id	物件ID
+学習用データ（train.csv）/検証用データ（test.csv）  
+データ数 ： 31,470行/31,262行  
+0	id	物件ID  
 1	賃料	賃料（目的変数）
 2	所在地	住所
 3	アクセス	最寄りの路線等
