@@ -6,8 +6,12 @@
 【SOTA】マイナビ × SIGNATE Student Cup 2019: 賃貸物件の家賃予測で**59位**/575人
 ## 構造
 **data**
+train,test　２つのデータセット
+**feature**
+
 **model**
 **graphic**
+**importance**
 
 # データの概要
 # 手法とその理由
