@@ -9,6 +9,8 @@
 
 
 <img width="1440" alt="signate_junni" src="https://user-images.githubusercontent.com/61231053/109386337-5e7abc80-793d-11eb-9e87-751daa81e934.png">
+
+
 ## 構造
 **data**-- train.csv / test.csv　２つのデータセット  
 **feature**--creat.ipynb (作った特徴量) / used_feature.ipynb（最終的に用いた特徴量）  
