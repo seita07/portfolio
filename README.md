@@ -15,5 +15,4 @@
 **data**-- train.csv / test.csv　２つのデータセット  
 **feature**--creat.ipynb (作った特徴量) / used_feature.ipynb（最終的に用いた特徴量）  
 **model**--lgbm.ipynb (LightGBMを用いたモデルのコード)  
-**graphic**--  
 **importance**--feature_importance  
